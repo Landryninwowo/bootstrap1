@@ -1,0 +1,76 @@
+.navbar-nav{
+    margin-left: 55%;
+    padding: 0 30px;
+    text-indent: 20px;
+    font-size: 15px;
+}
+
+.carousel-item img{
+    filter: brightness(50%);
+}
+.carousel-caption{
+    margin-bottom: 10%;
+}
+h5{
+    font-size: 35px;
+}
+.row{
+    width: 100%;
+}
+.col img{
+    width: 400px;
+    margin-top: 60px;
+    border: none;
+}
+.para{
+    margin-left: 38%;
+    margin-top: -34%;
+}
+.para1 {
+    text-align: center;
+    margin-top: 40px;
+}
+.card-text{
+    text-align: justify;
+    padding: 0 20px;
+}
+.para2{
+    text-align: center;
+    margin-top: 60px;
+}
+.image:hover{
+    background-color: rgb(255, 255, 255);
+}
+.image:hover{
+    box-shadow: 20px 20px 20px rgb(204, 187, 187);
+}
+.para3{
+    text-align: center;
+    margin-top: 60px;
+}
+.card img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.card{
+     box-shadow: 20px 20px 20px rgb(156, 153, 153);
+}
+.icon{
+    margin-left: 50px; 
+}
+.para4{
+    text-align: center;
+    margin-top: 60px;
+} 
+.noir{
+    height: 18rem;
+}
+
+
+
+@media screen and (max-width:600px) {
+    .foot {
+        width: 100%;
+    }
+}
